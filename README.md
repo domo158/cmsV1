@@ -1,2 +1,2 @@
 # cmsV1
-php - cms
+CMS Blog made with pure procedural PHP
